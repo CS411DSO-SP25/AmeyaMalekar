@@ -23,8 +23,7 @@ https://drive.google.com/file/d/1IXZ7d3hzy4ZAeKJo1Fpz7ewZP1aqDuEP/view?usp=drive
 ## Installation
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/CS411DSO-SP25/AmeyaMalekar.git
 ```
 
 2. Create and activate a virtual environment:
